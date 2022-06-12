@@ -1,5 +1,4 @@
 # Yelp-Star-Predictions-Using-TensorFlow
-Predict Yelp star rating from review text using TensorFlow
 
 Predicted businesses star rating based on all review text for that business using neural network implementations
 in TenserFlow. Yelp data was imported and converted to pandas dataframes and a tf-idf vectorizer was utilized
